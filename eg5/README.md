@@ -1,4 +1,4 @@
-# FEP+ input and results for c-Met dataset
+# FEP+ input and results for Eg5 dataset
 
 This folder contains:
 
