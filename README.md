@@ -5,6 +5,8 @@ Created by Christina Schindler and Daniel Kuhn, Merck KGaA, Darmstadt, Germany.
 
 December 2018
 
+DOI: [10.5281/zenodo.3360436](https://doi.org/10.5281/zenodo.3360436)
+
 Manuscript in preparation.
 
 Previously presented at Alchemical Free Energy Workshop 2019 in Goettingen, Germany.
