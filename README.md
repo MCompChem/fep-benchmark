@@ -15,6 +15,13 @@ DOI: [10.5281/zenodo.3258925](https://doi.org/10.5281/zenodo.3258925)
 
 ## References for datasets used in benchmark
 
+### CDK8
+Schiemann, Kai, et al. 
+"Discovery of potent and selective CDK8 inhibitors from an HSP90 pharmacophore." 
+Bioorganic & medicinal chemistry letters 26.5 (2016): 1443-1451.
+
+DOI: [10.1016/j.bmcl.2016.01.062](https://doi.org/10.1016/j.bmcl.2016.01.062)
+
 ### c-Met
 Dorsch, Dieter, et al. 
 "Identification and optimization of pyridazinones
@@ -73,3 +80,19 @@ and compositions thereof for inhibiting the activity of shp2."
 U.S. Patent Application No. 15/110,498.
 
 URL: [Google Patents](https://patents.google.com/patent/US10093646B2)
+
+### SYK
+Currie, Kevin S., et al.
+"Discovery of GS-9973, a selective and orally efficacious inhibitor
+of spleen tyrosine kinase." 
+Journal of medicinal chemistry 57.9 (2014): 3856-3873.
+
+DOI: [10.1021/jm500228a](https://doi.org/10.1021/jm500228a)
+
+### TNKS2
+Buchstaller, Hans-Peter, et al. 
+"Discovery and Optimization of 2-Arylquinazolin-4-ones into a
+Potent and Selective Tankyrase Inhibitor Modulating Wnt Pathway Activity." 
+Journal of medicinal chemistry 62.17 (2019): 7897-7909.
+
+DOI: [10.1021/acs.jmedchem.9b00656](https://doi.org/10.1021/acs.jmedchem.9b00656)
