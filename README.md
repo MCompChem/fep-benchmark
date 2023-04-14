@@ -7,7 +7,9 @@ December 2018
 
 DOI: [10.5281/zenodo.3360435](https://doi.org/10.5281/zenodo.3360435)
 
-Manuscript in preparation.
+### Manuscript 
+Schindler et al. "Large-Scale Assessment of Binding Free Energy Calculations in Active Drug Discovery Projects" (2020) JCIM.
+[10.1021/acs.jcim.0c00900](https://pubs.acs.org/doi/full/10.1021/acs.jcim.0c00900)
 
 Previously presented at Alchemical Free Energy Workshop 2019 in Goettingen, Germany.
 
