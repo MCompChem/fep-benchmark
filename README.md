@@ -54,6 +54,12 @@ Dixon, Darryl David, et al.
 
 URL: [Google Patents](https://patents.google.com/patent/US9908845B2)
 
+### Hif2a JMC 2023
+
+Buchstaller et al. "Discovery of Cycloalkyl[c]thiophenes as Novel Scaffolds for Hypoxia-Inducible Factor-2α Inhibitors" J. Med. Chem. (2023) 66, 13, 8666–8686.
+
+DOI: [10.1021/acs.jmedchem.3c00332](https://doi.org/10.1021/acs.jmedchem.3c00332)
+
 ### PFKFB3
 Boutard, Nicolas, et al. 
 "Discovery and Structure–Activity Relationships of N-Aryl 
